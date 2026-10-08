@@ -1,5 +1,5 @@
 // Student Management REST API - Lab Assignment 2 (Web Dev III, Unit 2)
-// Author: Naman Joshi
+// Author: Pawan Chauhan
 const express = require('express');
 const logger = require('./middleware/logger');
 const studentRoutes = require('./routes/studentRoutes');
